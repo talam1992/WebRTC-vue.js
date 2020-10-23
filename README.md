@@ -1,4 +1,4 @@
-# video-chat
+# WebRTC video-chat vue.js 
 
 ## Project setup
 ```
